@@ -1,126 +1,96 @@
-# Sourabh Vishwakarma --- Personal Portfolio
+<div align="center">
 
-A personal portfolio website showcasing my background, technical skills,
-selected projects, and professional links. Built with **HTML5 and
-CSS3**, with a dark visual theme, animated profile treatment, and
-responsive layouts.
+Sourabh Vishwakarma | Personal Portfolio
 
-```{=html}
-<p align="center">
-```
-`<img src="assets/Dashboard.png" alt="Portfolio website preview" width="850">`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="YOUR_VERCEL_LIVE_URL">`{=html}Live Portfolio`</a>`{=html}  • 
-`<a href="assets/Demo.mov">`{=html}Watch Demo Video`</a>`{=html}  • 
-`<a href="assets/Sourabh_Vishwakarma_Resume.pdf">`{=html}Download
-Resume`</a>`{=html}
-```{=html}
-</p>
-```
-> **Deployment note:** Replace `YOUR_VERCEL_LIVE_URL` above with your
-> actual Vercel URL after deployment. The live link is intentionally a
-> placeholder until the site is published.
+A professional portfolio showcasing my technical skills, projects, and development journey.
 
-## Overview
+<img src="assets/Dashboard.png" alt="Personal Portfolio Website Preview" width="100%">
+<br>
+<br>
+</div>
 
-This website is my central professional portfolio: a place to introduce
-myself, present my skills and projects, and make it easy for visitors
-and recruiters to access my resume and professional profiles.
+⸻
 
-The project focuses on a clear visual hierarchy, straightforward
-navigation, and a consistent interface across desktop and smaller
-screens.
+📌 Overview
 
-## Features
+This is my personal portfolio website, developed to establish a professional online presence and showcase my technical background, skills, projects, and achievements.
 
--   Professional introduction and profile section
--   Dedicated sections for background, skills, projects, and contact
-    information
--   Navigation links connected to the corresponding page sections
--   Resume download link
--   Links to professional and social profiles
--   Dark interface with neon-green accent styling
--   CSS animations, including the animated profile-image border
--   Responsive layout for desktop, tablet, and mobile screens
+The website features a modern dark-themed interface with neon-green accents, CSS animations, and a responsive layout. It provides visitors with an organized overview of my professional profile and makes my resume, projects, and social profiles easily accessible.
 
-## Built With
+The primary objective of this project is to present my work and technical capabilities through a clean, user-friendly web experience.
 
--   **HTML5** --- semantic page structure and content
--   **CSS3** --- layout, styling, animations, and responsive media
-    queries
--   **Google Fonts (Poppins)** --- typography
--   **Font Awesome** --- social and interface icons
+✨ Key Features
 
-## Project Structure
+* Modern UI Design: Clean dark-themed interface with neon-green accents.
+* Animated Profile Section: Rotating animated border around the profile image using CSS.
+* Professional Introduction: Dedicated homepage introducing my background and technical interests.
+* About Section: Information about my educational and professional background.
+* Skills Section: Organized presentation of technical skills and technologies.
+* Projects Section: Showcase of technical projects and practical implementations.
+* Functional Navigation: Navigation links connected to their respective sections.
+* Resume Download: Direct access to my downloadable resume.
+* Social Media Integration: Direct links to GitHub, LinkedIn, and other professional profiles.
+* Responsive Design: Layout optimized for desktop, tablet, and mobile screens.
 
-``` text
+🛠️ Technologies Used
+
+Technology	Purpose
+HTML5	Website structure and content
+CSS3	Styling, layouts, and animations
+Google Fonts	Poppins typography
+Font Awesome	Social media and interface icons
+CSS Media Queries	Responsive design
+
+📸 Website Preview
+
+Homepage
+
+<img src="assets/Dashboard.png" alt="Portfolio Homepage" width="100%">
+
+Project Demonstration
+
+▶ Watch Portfolio Demo Video
+
+📂 Project Structure
+
 personal-portfolio-website/
+│
 ├── assets/
 │   ├── Dashboard.png
 │   ├── Demo.mov
 │   ├── Sourabh_Vishwakarma_Resume.pdf
 │   └── image.png
+│
 ├── index.html
 ├── style.css
 └── README.md
-```
 
-The `.DS_Store` files visible in the development folder are macOS
-metadata files and are not required by the website. They should not be
-included in the repository.
 
-## Run Locally
+🌐 Live Deployment
+https://personal-portfolio-website-hazel-beta.vercel.app/
 
-This is a static HTML/CSS project and does not require a backend or
-package installation.
+The portfolio website is intended to be deployed using Vercel.
 
-1.  Clone the repository:
+Once deployed, you can access the website through the live demo link provided at the top of this README.
 
-    ``` bash
-    git clone YOUR_GITHUB_REPOSITORY_URL
-    ```
+Live Website: Visit My Portfolio
 
-2.  Open the project folder:
+👨‍💻 About Me
 
-    ``` bash
-    cd personal-portfolio-website
-    ```
+Sourabh Vishwakarma
 
-3.  Open `index.html` in your browser.
+I am interested in Data Science, Machine Learning, Artificial Intelligence, and Software Development.
 
-    Alternatively, use the **Live Server** extension in Visual Studio
-    Code for a local development server.
+I enjoy building practical projects, exploring new technologies, and continuously improving my technical skills.
 
-## Demo
+Connect With Me
 
--   **Live website:** [Open portfolio](YOUR_VERCEL_LIVE_URL) --- update
-    this URL after deploying to Vercel.
--   **Project walkthrough:** [Watch the demo video](assets/Demo.mov)
--   **Screenshot:** See the preview at the top of this README.
+⸻
 
-## Deployment
+<div align="center">
 
-The website is intended to be deployed on [Vercel](https://vercel.com/).
+Thank you for visiting my repository!
 
-For this static website, import the GitHub repository into Vercel and
-use the project root as the deployment root. A build command is
-generally not needed for plain HTML and CSS. After deployment, add the
-generated production URL to the Live Portfolio links in this README.
+If you find this project interesting, feel free to explore the code and share your feedback.
 
-## Author
-
-**Sourabh Vishwakarma**
-
--   GitHub: [sourabh9098](https://github.com/sourabh9098)
--   LinkedIn: [Sourabh
-    Vishwakarma](https://www.linkedin.com/in/sourabh9098/)
-
-------------------------------------------------------------------------
-
-If you have feedback or suggestions, feel free to connect through my
-LinkedIn profile.
+</div>
