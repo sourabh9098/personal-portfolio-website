@@ -75,7 +75,7 @@ Once deployed, you can access the website through the live demo link provided at
 
 Live Website: Visit My Portfolio
 
-👨‍💻 About Me
+About Me
 
 Sourabh Vishwakarma
 
