@@ -46,6 +46,7 @@ CSS Media Queries	Responsive design
 Homepage
 
 <img src="assets/Dashboard.png" alt="Portfolio Homepage" width="100%">
+<video src="assests/Demo.mov" autoplay controls ></video>
 
 Project Demonstration
 
