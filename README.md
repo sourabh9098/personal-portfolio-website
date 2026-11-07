@@ -41,18 +41,6 @@ Google Fonts	Poppins typography
 Font Awesome	Social media and interface icons
 CSS Media Queries	Responsive design
 
-📸 Website Preview
-
-Homepage
-
-<img src="assets/Dashboard.png" alt="Portfolio Homepage" width="100%">
-<p align="center">
-  <video src="assests/Demo.mov" width="80%" controls></video>
-</p>
-
-Project Demonstration
-
-▶ Watch Portfolio Demo Video
 
 📂 Project Structure
 
