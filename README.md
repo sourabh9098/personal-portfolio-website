@@ -80,7 +80,7 @@ Connect With Me
 
 <div align="center">
 
-Thank you for visiting my repository!
+Thank you for visiting my repository
 
 If you find this project interesting, feel free to explore the code and share your feedback.
 
