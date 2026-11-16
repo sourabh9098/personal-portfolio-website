@@ -76,7 +76,6 @@ I enjoy building practical projects, exploring new technologies, and continuousl
 
 Connect With Me
 
-⸻
 
 <div align="center">
 
