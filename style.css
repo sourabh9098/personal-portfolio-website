@@ -10,10 +10,6 @@
 }
 
 
-/* body{
-    background: #1f232d;
-
-} */
 
 a{
     color: white;
@@ -229,7 +225,7 @@ a{
     /* display: flex; */
     z-index: -1;
     background: #1f242d;
-    /* border: 2px solid red ; */
+    /* border: 2px red ; */
     transform: translateY(-100%);
     animation: bars .5s ease-in-out forwards;
 }
